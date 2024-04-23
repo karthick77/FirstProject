@@ -1,4 +1,4 @@
-const num1 = 10;
+const num1 = 22;
 const num2 = 2;
 
 // add two numbers
